@@ -1,2 +1,2 @@
 # automated-nmapscan
-a simple bashscript that makes a full nmap scan
+Scripts that makes your Nmap scans easier
